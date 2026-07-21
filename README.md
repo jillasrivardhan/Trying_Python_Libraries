@@ -20,6 +20,7 @@ Trying_Python_Libraries/
 │── qr.py                     # QR Code Generator using Python
 │── tokenizer.py              # Text tokenization example
 │── my first qr code.svg      # Generated QR Code
+|__ plotting.py                   # Matplotlib library
 └── README.md
 ```
 
@@ -109,6 +110,7 @@ This repository helps you learn how to:
 - Perform basic text tokenization
 - Build small Python applications
 - Understand library documentation
+- plotting the data using matplotlib
 
 ---
 
