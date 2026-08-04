@@ -16,11 +16,25 @@ Whether you're generating QR codes, experimenting with text processing, or explo
 
 ```
 Trying_Python_Libraries/
-│── hello.py                  # Basic Python script
-│── qr.py                     # QR Code Generator using Python
-│── tokenizer.py              # Text tokenization example
-│── my first qr code.svg      # Generated QR Code
-|__ plotting.py                   # Matplotlib library
+│── Bg-Remover/
+│   ├── background_remover.py      # Remove image backgrounds
+│   ├── mustang.jpg                # Original sample image
+│   └── mustang_wbg1.png           # Background-removed output
+│
+│── Matplotlib/
+│   └── plotting.py                # Matplotlib plotting examples
+│
+│── Numpy/
+│   └── numpy.ipynb                # NumPy practice notebook
+│
+│── QR-code/
+│   ├── qr.py                      # QR Code Generator
+│   └── my first qr code.svg       # Generated QR Code
+│
+│── Tokenizer/
+│   ├── hello.py                   # Basic Python example
+│   └── tokenizer.py               # Text tokenization example
+│
 └── README.md
 ```
 
