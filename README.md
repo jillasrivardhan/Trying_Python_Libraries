@@ -14,31 +14,40 @@ Whether you're generating QR codes, experimenting with text processing, or explo
 
 ## 📂 Project Structure
 
-```
 Trying_Python_Libraries/
-│── Bg-Remover/
-│   ├── background_remover.py      # Remove image backgrounds
-│   ├── mustang.jpg                # Original sample image
-│   └── mustang_wbg1.png           # Background-removed output
 │
-│── Matplotlib/
-│   └── plotting.py                # Matplotlib plotting examples
+├── Bg-Remover/
+│   ├── background_remover.py
+│   ├── mustang.jpg
+│   └── mustang_wbg1.png
 │
-│── Numpy/
-│   └── numpy.ipynb                # NumPy practice notebook
+├── Matplotlib/
+│   └── plotting.py
 │
-│── QR-code/
-│   ├── qr.py                      # QR Code Generator
-│   └── my first qr code.svg       # Generated QR Code
+├── Numpy/
+│   └── numpy.ipynb
 │
-│── Tokenizer/
-│   ├── hello.py                   # Basic Python example
-│   └── tokenizer.py               # Text tokenization example
+├── QR-code/
+│   ├── my first qr code.svg
+│   └── qr.py
+│
+├── Tokenizer/
+│   ├── hello.py
+│   └── tokenizer.py
+│
+├── text_to_speech/
+│   ├── main.py
+│   └── output.mp3
+│
+├── video_to_gif/
+│   ├── main.py
+│   └── video-1.mp4
+│
+├── random_password.py
 │
 └── README.md
 ```
 
----
 
 ## ✨ Features
 
