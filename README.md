@@ -13,7 +13,7 @@ Whether you're generating QR codes, experimenting with text processing, or explo
 ---
 
 ## 📂 Project Structure
-
+```
 Trying_Python_Libraries/
 │
 ├── Bg-Remover/
